@@ -14,22 +14,22 @@ The dataset is composed of structured Excel files used to analyze employee metri
 
 | File Name                     | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
-| `Departments.xlsx`           | Contains department codes used across the organization.                     |
-| `DepartmentTexts.xlsx`       | Display names and descriptions for department codes.                        |
-| `Divisions.xlsx`             | Contains division codes mapped to departments.                             |
-| `DivisionTexts.xlsx`         | Descriptive text and display values for division codes.                     |
-| `EmployeeHeadcount.xlsx`     | Headcount and status data per employee, including start and end dates.      |
-| `EmployeePerformance.xlsx`   | Performance scores, leadership flags, and impact indicators.                |
-| `EmployeePersonalData.xlsx`  | Master data of employees (e.g., ID, name, gender, marital status, etc).     |
-| `EmployeePosition.xlsx`      | Job position data with job title, job level, and position dates.            |
-| `HRManager.xlsx`             | List of HR managers responsible for employees or departments.               |
-| `Job.xlsx`                   | Job codes and role identifiers.                                             |
-| `JobClassification.xlsx`     | Classification levels such as associate, manager, expert, etc.              |
-| `JobClassificationTexts.xlsx`| Descriptions and display values for job classifications.                    |
-| `JobTexts.xlsx`              | Job title texts and additional job descriptions.                            |
-| `Location.xlsx`              | Location codes used across employee records.                                |
-| `LocationHierarchy.xlsx`     | Hierarchical structure of office, country, and region data.                 |
-| `LocationTexts.xlsx`         | Descriptive names for location codes.                                       |
+| `Departments.csv`           | Contains department codes used across the organization.                     |
+| `DepartmentTexts.csv`       | Display names and descriptions for department codes.                        |
+| `Divisions.csv`             | Contains division codes mapped to departments.                             |
+| `DivisionTexts.csv`         | Descriptive text and display values for division codes.                     |
+| `EmployeeHeadcount.csv`     | Headcount and status data per employee, including start and end dates.      |
+| `EmployeePerformance.csv`   | Performance scores, leadership flags, and impact indicators.                |
+| `EmployeePersonalData.csv`  | Master data of employees (e.g., ID, name, gender, marital status, etc).     |
+| `EmployeePosition.csv`      | Job position data with job title, job level, and position dates.            |
+| `HRManager.csv`             | List of HR managers responsible for employees or departments.               |
+| `Job.csv`                   | Job codes and role identifiers.                                             |
+| `JobClassification.csv`     | Classification levels such as associate, manager, expert, etc.              |
+| `JobClassificationTexts.csv`| Descriptions and display values for job classifications.                    |
+| `JobTexts.csv`              | Job title texts and additional job descriptions.                            |
+| `Location.csv`              | Location codes used across employee records.                                |
+| `LocationHierarchy.csv`     | Hierarchical structure of office, country, and region data.                 |
+| `LocationTexts.csv`         | Descriptive names for location codes.                                       |
 
 ---
 
