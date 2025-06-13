@@ -1,8 +1,8 @@
-# 📊 HR Analytics Dashboard
+# HR Analytics Dashboard
 
 This project presents a comprehensive HR analytics dashboard built using **Power Query** and **Power Pivot** in Microsoft Excel. The dashboard provides valuable insights into workforce demographics, employee turnover trends, and individual employee profiles to support data-driven human resource decisions.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze active employee data across company locations, age groups, job levels, and salary ranges.
 - Monitor employee turnover and retention trends over time, including reasons and classifications.
@@ -10,7 +10,7 @@ This project presents a comprehensive HR analytics dashboard built using **Power
 
 ---
 
-## 📁 Key Features
+## Key Features
 
 ### 1. **Active Employee Dashboard**
 
@@ -18,7 +18,7 @@ This sheet visualizes the current employee distribution:
 - Total headcount segmented by **company**, **gender**, and **age category**.
 - Breakdown by **department**, **job level**, **years of experience**, and **salary range**.
   
-🔍 **Key Insight**: The majority of employees are over 45 years old, predominantly in "Senior Specialist" roles, and earn between $50K–$99K annually.
+**Key Insight**: The majority of employees are over 45 years old, predominantly in "Senior Specialist" roles, and earn between $50K–$99K annually.
 
 ---
 
@@ -29,7 +29,7 @@ This sheet analyzes historical employee turnover data:
 - Classification by **type** (Voluntary vs. Involuntary), **reasons**, and **organizational level**.
 - Insights into **average tenure** and most affected departments.
 
-🔍 **Key Insight**: Over 90% of employee exits are voluntary, with the highest turnover rate found in production departments and among senior-level specialists.
+**Key Insight**: Over 90% of employee exits are voluntary, with the highest turnover rate found in production departments and among senior-level specialists.
 
 ---
 
@@ -40,11 +40,11 @@ An interactive report displaying individual employee profiles:
 - Office data: job title, manager, salary, employment status, and tenure.
 - Performance evaluation: impact level and leadership potential indicators.
 
-🔍 **Use Case**: Ideal for HR managers to get personal data employee, conducting performance reviews, identifying high-potential employees, and succession planning.
+**Use Case**: Ideal for HR managers to get personal data employee, conducting performance reviews, identifying high-potential employees, and succession planning.
 
 ---
 
-## 🗂️ Source Data
+## Source Data
 
 All data used in this project is based on **sample HR datasets from SAP’s fictional company – Bicycle Company**, which includes data from the following global subsidiaries:
 - **Acme Western EU SE**
@@ -55,7 +55,7 @@ These datasets simulate realistic employee data for demonstration and learning p
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power Query** – Used for data transformation, cleaning, and consolidation.
 - **Power Pivot** – Enables data modeling and DAX calculations for advanced analytics.
@@ -63,7 +63,7 @@ These datasets simulate realistic employee data for demonstration and learning p
 
 ---
 
-## 📌 Project Benefits
+## Project Benefits
 
 - Provides a real-time, visual understanding of workforce composition and behavior.
 - Facilitates strategic decision-making in employee development, retention, and organizational planning.
@@ -71,7 +71,7 @@ These datasets simulate realistic employee data for demonstration and learning p
 
 ---
 
-## 📷 Dashboard Previews
+## Dashboard Previews
 
 | Active Employee | Turnover | Personal Data |
 |-----------------|----------|---------------|
