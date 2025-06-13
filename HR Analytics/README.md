@@ -53,6 +53,9 @@ All data used in this project is based on **sample HR datasets from SAP’s fict
 
 These datasets simulate realistic employee data for demonstration and learning purposes, including employee demographics, job classifications, salary ranges, and exit details.
 
+> **Source**: Public sample dataset hosted on GitHub  
+> [View Dataset on GitHub](https://github.com/denindrap23/Excel/blob/main/HR%20Analytics/dataset)
+
 ---
 
 ## Tools & Technologies
