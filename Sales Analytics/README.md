@@ -65,7 +65,7 @@ The dataset contains sales transaction records, including:
 - Profit and Quantity Metrics
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub]([superstore](https://github.com/denindrap23/Excel/blob/main/Sales%20Analytics/dataset/superstore.csv))
+> [View Dataset on GitHub]([superstore](https://github.com/denindrap23/Excel/blob/main/Sales%20Analytics/dataset/superstore.csv)
 
 ---
 
