@@ -9,7 +9,7 @@ The main objective of this project is to analyze and visualize sales data from m
 - **Customer Analytics**: Regional performance, top cities, customer segments, and purchasing behavior
 - **Product Performance**: Sales by product category, sub-category, and individual product, including distribution by sales volume, profit, and quantity
 
-## 🛠️ Tools and Technologies Used
+## Tools and Technologies Used
 - **Power Query**: For data extraction and transformation (ETL process)
 - **Power Pivot**: For data modeling and establishing relationships
 - **Pivot Tables & Charts in Excel**: For interactive visualizations
@@ -27,7 +27,7 @@ This dashboard provides a macro-level overview of total sales performance betwee
 - **Sales Distribution by State and Customer Segment**
 - **Performance by Product Category**
 
-![Sales Summary Dashboard](Dashboard%20Preview/sales_dashboard.png)
+![Sales Summary Dashboard](image/superstore-summary.png)
 
 ---
 
@@ -40,7 +40,7 @@ Focused on customer data, this dashboard highlights:
 
 This view provides a deeper understanding of the market behavior and regional trends.
 
-![Customer Sales Dashboard](Dashboard%20Preview/customer_dashboard.png)
+![Customer Sales Dashboard](image/superstore-customer.png)
 
 ---
 
@@ -53,7 +53,7 @@ This dashboard presents an in-depth analysis of product-related sales and trends
 
 These insights help identify best-performing product lines and customer preferences.
 
-![Product Performance Dashboard](Dashboard%20Preview/product_dashboard.png)
+![Product Performance Dashboard](image/superstore-product.png)
 
 ---
 
@@ -65,7 +65,7 @@ The dataset contains sales transaction records, including:
 - Profit and Quantity Metrics
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub](https://github.com/username/repo/tree/main/data)
+> [View Dataset on GitHub]([https://github.com/username/repo/tree/main/data](https://github.com/denindrap23/Excel/blob/main/Sales%20Analytics/dataset/superstore.csv)
 
 ---
 
